@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\carpeta de documentos\fcfm portafolio\c++_openglspace\proyecto_opengl\image.h(60): warning C4101: 'e': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_openglspace\proyecto_opengl\image.h(79): warning C4101: 'e': unreferenced local variable
+c:\carpeta de documentos\fcfm portafolio\c++_openglspace\proyecto_opengl\skydome.h(53): warning C4101: 'indice': unreferenced local variable
+  Proyecto_OpenGL.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_OpenGLSpace\Debug\Proyecto_OpenGL.exe
+  Proyecto_OpenGL.vcxproj -> C:\Carpeta de documentos\FCFM Portafolio\C++_OpenGLSpace\Debug\Proyecto_OpenGL.pdb (Full PDB)
