@@ -124,7 +124,7 @@ Project Link: [https://github.com/Deathmajorasmask/Space-simulation-OpenGL](http
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[screenshot]: Images/Screen02_Space.JPGG
+[screenshot]: Images/Screen02_Space.JPG
 [screenshot01]: Images/Screen01_Space.JPG
 [screenshot02]: Images/Screen03_Space.JPG
 [screenshot03]: Images/Screen04_Space.JPG
